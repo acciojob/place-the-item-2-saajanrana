@@ -1,2 +1,7 @@
-
+.holder{
+display:flex;
+	flex-direction:row;
+	flex-clow:wrap;
+	justify-content:center;
+}
 /* Your CSS Code here. */
