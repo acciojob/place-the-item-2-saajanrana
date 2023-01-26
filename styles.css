@@ -1,7 +1,7 @@
 .holder{
 display:flex;
 	flex-direction:row;
-	flex-clow:wrap;
+	flex-clow:nowrap;
 	justify-content:center;
 }
 /* Your CSS Code here. */
